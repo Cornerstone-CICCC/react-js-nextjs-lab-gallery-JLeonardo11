@@ -45,6 +45,8 @@ Demo: [https://drive.google.com/file/d/1QQgcX9hPnKsV48KKYS8AE7x5cHQG_QPR/view?us
 
     You can read more about this in their [documentation](https://nextjs.org/docs/app/getting-started/images#remote-images).
 
+
+make map to replace image 
 ## Resources
 
 - For all photos: [https://jsonplaceholder.typicode.com/photos]
